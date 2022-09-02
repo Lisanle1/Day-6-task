@@ -2,7 +2,7 @@ class person {
     constructor (firstName, lastName,email, age,mobile,role) {
         this.firstName = firstName;
         this.lastName = lastName;
-        this.age = age;
+        this.age = age;  
         this.email=email;
         this.mobile=mobile;
         this.role=role;
