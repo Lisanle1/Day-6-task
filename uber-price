@@ -2,7 +2,7 @@ class uberFare {
     constructor (city, fare, customerName) {
         this.city = city;
         this.fare = fare;
-        this.customerName  = customerName;
+        this.customerName  = customerName;  
  
     }
         getFareCity(){
